@@ -2,7 +2,7 @@
 
 **`Graduando em Sistemas de Informação (SI)`**
 
-Me chamo Victor Menezes, sou natural de Aracaju/SE e formado em **Geologia pela UFBA**. Atualmente, estou cursando Sistemas de Informação. Meu foco é aprender a desenvolver sistemas robustos, aplicando o raciocínio lógico e a organização de dados que minha experiência prévia em geociências consolidou.
+Me chamo Victor Menezes, sou natural de Aracaju/SE e formado em Geologia pela UFBA. Atualmente, estou cursando Sistemas de Informação. Meu foco é aprender a desenvolver sistemas robustos, aplicando o raciocínio lógico e a organização de dados que minha experiência prévia em geociências consolidou.
 
 ---
 
